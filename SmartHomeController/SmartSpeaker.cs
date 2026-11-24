@@ -11,6 +11,7 @@ namespace SmartHomeController
         private bool isPlaying;
 
 
+
         // public properties
 
         public int Volume
